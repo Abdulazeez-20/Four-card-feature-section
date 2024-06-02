@@ -22,7 +22,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 6rem 0;
+    margin: 5rem 0;
     color: var(--Grayish-Blue);
     font-family: 'Poppins', sans-serif;
     background-color: var(--Very-Light-Gray);
